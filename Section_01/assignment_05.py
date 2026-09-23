@@ -16,11 +16,12 @@
 
 """
 
-chars = "<<[]]]" # this could be a very long string with an even length.
+chars = "(((8889<[<||>]>88897)))" # this could be a very long string with an even length.
 word = "Cool"
 
 # Expected Result Printed: <<[Cool]]]
-
+print(int(len(chars)/2))
+print(chars[:int(len(chars)/2)]+word+chars[int(len(chars)/2):])
 
 # Your code below:
 
