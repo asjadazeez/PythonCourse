@@ -5,7 +5,6 @@ Print Bill's salary from the my_list object shown below.
 my_list = [{'Tom': 20000, 'Bill': 12000}, ['car', 'laptop', 'TV']]
 
 """
-from urllib.robotparser import merge_entries
 
 # your code below:
 my_list = [{'Tom': 20000, 'Bill': 12000}, ['car', 'laptop', 'TV']]
