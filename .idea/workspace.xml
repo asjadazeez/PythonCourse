@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71eccd33-7d7f-425c-ad02-4395be0f10cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Assignments.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="71eccd33-7d7f-425c-ad02-4395be0f10cc" name="Default Changelist" comment="Python course assignment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section_01/assignment_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_01/assignment_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section_01/assignment_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_01/assignment_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_02/assignment_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_02/assignment_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_02/assignment_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_02/assignment_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_02/assignment_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_02/assignment_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_02/assignment_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_02/assignment_04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,16 +26,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/asjadazeez/PythonCourse",
-    "accountId": "4490018a-374b-401d-9ee6-21e284fb25da"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;asjadazeez&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2,
-  "fromUser": false
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/asjadazeez/PythonCourse&quot;,
+    &quot;accountId&quot;: &quot;4490018a-374b-401d-9ee6-21e284fb25da&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="1ZXZuuFgkFt4QMFvsacqlysLR0X" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,15 +53,19 @@
     "Python.assignment_01 (1).executor": "Run",
     "Python.assignment_01.executor": "Run",
     "Python.assignment_02.executor": "Run",
+    "Python.assignment_03.executor": "Run",
+    "Python.assignment_04.executor": "Run",
+    "Python.assignment_05.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -103,16 +113,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584987624510</updated>
-      <workItem from="1790197511561" duration="1176000" />
+      <workItem from="1790197511561" duration="3032000" />
+      <workItem from="1790712244130" duration="5761000" />
     </task>
+    <task id="LOCAL-00001" summary="Python course assignment">
+      <option name="closed" value="true" />
+      <created>1790198721449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790198721449</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python course assignment">
+      <option name="closed" value="true" />
+      <created>1790199913166</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790199913166</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python course assignment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python course assignment" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonCourse$assignment_01__1_.coverage" NAME="assignment_01 (1) Coverage Results" MODIFIED="1790197875188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section_05" />
-    <SUITE FILE_PATH="coverage/PythonCourse$assignment_01.coverage" NAME="assignment_01 Coverage Results" MODIFIED="1790198297886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section_01" />
-    <SUITE FILE_PATH="coverage/PythonCourse$assignment_02.coverage" NAME="assignment_02 Coverage Results" MODIFIED="1790198376817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section_01" />
+    <SUITE FILE_PATH="coverage/PythonCourse$assignment_05.coverage" NAME="assignment_05 Coverage Results" MODIFIED="1790199692759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section_01" />
+    <SUITE FILE_PATH="coverage/PythonCourse$assignment_01.coverage" NAME="assignment_01 Coverage Results" MODIFIED="1790717918004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section_02" />
+    <SUITE FILE_PATH="coverage/PythonCourse$assignment_03.coverage" NAME="assignment_03 Coverage Results" MODIFIED="1790713676532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section_02" />
+    <SUITE FILE_PATH="coverage/PythonCourse$assignment_02.coverage" NAME="assignment_02 Coverage Results" MODIFIED="1790717515977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section_02" />
+    <SUITE FILE_PATH="coverage/PythonCourse$assignment_04.coverage" NAME="assignment_04 Coverage Results" MODIFIED="1790716074663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Section_02" />
   </component>
 </project>

@@ -12,8 +12,10 @@ IMPORTANT: you must do this programmatically! Don't just
 original_list = ['cup', 'cereal', 'milk', (8, 4, 3)]
 
 # your code below:
-
-
+mytuplist = list(original_list[3])
+mytuplist.sort()
+original_list[3] = tuple(mytuplist)
+print(original_list)
 
 
 

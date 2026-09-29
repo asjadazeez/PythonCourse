@@ -10,8 +10,23 @@ who owns a bike, a laptop and boat.
 """
 
 # your code below:
+tomsStatus = {'salary':'20000','age':22,'items':['jacket','car','TV']}
+mikeStatus = {'salary':24000,'age':27,'items':['bike','laptop','boat']}
+my_dict =[{'tom':tomsStatus},{'mike':mikeStatus}]
+print(my_dict)
+print(my_dict[0])
+print(tomsStatus.keys())
+mikeStatus =  tomsStatus.copy()
+mikeStatus.update(tomsStatus)
+print(mikeStatus)
 
-
+def print_dict_info(d):
+    # TODO: Print all keys, values, and key-value pairs
+    print("in method")
+    print(d.keys())
+    print(d.values())
+    print(d.items())
+print_dict_info(tomsStatus)
 
 
 
